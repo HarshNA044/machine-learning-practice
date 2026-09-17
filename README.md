@@ -4,19 +4,6 @@ This repository contains my machine learning practicals, experiments, and hands-
 
 The notebooks cover different datasets and ML concepts, ranging from data preprocessing and visualization to model training and evaluation.
 
-## 📚 Topics Covered
-
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Train-Test Split
-- Feature Selection
-- Linear Regression
-- Clustering 
-- Model Evaluation
-- Classification
-- More ML algorithms and concepts as I continue learning
-
 ## 🛠️ Tools & Technologies
 
 - Python
